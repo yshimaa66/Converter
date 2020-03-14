@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+e:\visual studio\converter_sho_o\project5\myform.h(549): warning C4715: 'Project5::MyForm::Dec_To_Hex': not all control paths return a value
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project5.vcxproj -> E:\visual studio\Converter_SHO_O\Debug\Project5.exe
